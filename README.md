@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Justin Bisacky!</h1>
-<h3 align="center">Software Engineering Student at Arizona State University</h3>
+<h3 align="center">Software Engineer with a Bachelors of Science in Software Engineering from Arizona State University</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -30,6 +30,4 @@ I am passionate about software development and constantly learning new technolog
 - CI/CD
 
 ## 🌐 Let's Connect
-
-- 📧 Email: `jbisacky@asu.edu`
 - 💼 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinbisacky/)
